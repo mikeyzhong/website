@@ -65,7 +65,7 @@ export default function Home() {
         </ul>
       </section>
       <section>
-        <h4>A few ways to say hi.</h4>
+        <h4>A few ways to say hi:</h4>
         <span>
           <ul>
             <li>
