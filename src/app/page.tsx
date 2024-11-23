@@ -10,6 +10,10 @@ export default function Home() {
             project called sketches, which is my attempt to explain ML concepts
             with more pictures and fewer words.
           </p>
+          <p>
+            Before sketches, I was a software engineer at Wing, IDEO.org,
+            Microsoft, and The New York Times.
+          </p>
         </section>
         <section>
           <h4>A few dreams I'd like to manifest:</h4>
@@ -71,6 +75,9 @@ export default function Home() {
               <a href="https://www.linkedin.com/in/michael-zhong-b0b58938/">
                 LinkedIn
               </a>
+            </li>
+            <li>
+              <a href="https://www.twitter.com/mzhong21/">Twitter</a>
             </li>
           </ul>
         </span>
