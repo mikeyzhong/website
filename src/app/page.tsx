@@ -5,9 +5,9 @@ export default function Home() {
         <section>
           <h4>Hi!</h4>
           <p>
-            I&apos;m Mikey, I live in NYC, and I&apos;m currently heads down
-            working on a project called sketches, which is my attempt to explain
-            ML concepts with more pictures and fewer words.
+            I'm Mikey, I live in NYC, and I'm currently heads down working on a
+            project called sketches, which is my attempt to explain ML concepts
+            with more pictures and fewer words.
           </p>
         </section>
         <section>
