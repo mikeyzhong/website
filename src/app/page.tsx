@@ -18,7 +18,7 @@ export default function Home() {
         <section>
           <h4>A few dreams I'd like to manifest:</h4>
           <ul>
-            <li>Accessible education for anyone.</li>
+            <li>Accessible education for everyone.</li>
             <li>
               I'd love to host weekly pasta nights of 8-20 people where I don't
               know everyone.
