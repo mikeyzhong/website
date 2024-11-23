@@ -5,7 +5,8 @@ export default function Home() {
         <section>
           <h4>Hi!</h4>
           <p>
-            I'm Mikey, I live in NYC, and I'm currently heads down working on a
+            I'm Mikey, I live in NYC, my MBTI is ENFP if it's before 7pm and
+            INFP if it's after, and I'm currently heads down working on a
             project called sketches, which is my attempt to explain ML concepts
             with more pictures and fewer words.
           </p>
@@ -22,7 +23,7 @@ export default function Home() {
               Live in a 4-apartment townhouse with friends who like to make
               things, working on our projects.
             </li>
-            <li>Have a little grapefruit patch in a mini-greenhouse.</li>
+            <li>Own a little grapefruit patch in a mini-greenhouse.</li>
             <li>
               <a
                 href="https://www.instagram.com/p/CiftimKJdiz/"
@@ -43,6 +44,8 @@ export default function Home() {
             Anything ML-related, particularly scene reconstruction and
             self-supervised learning problems in computer vision.
           </li>
+          <li>Personality tests and anything psychology, but not astrology.</li>
+          <li>Peregrine falcons and anything fast that's not a car.</li>
           <li>
             Grapefruit juice.{" "}
             <a
